@@ -26,7 +26,7 @@ Un repositorio de reseñas de videojuegos. Un usuario puede opinar sobre un jueg
 
 |Req|Detalle|
 |:-|:-|
-| CRUD simple       | 1. CRUD Usuario<br>3. CRUD Etiqueta<br>4. CRUD Plataforma|
+| CRUD simple       | 1. CRUD Usuario<br>2. CRUD Etiqueta<br>3. CRUD Plataforma|
 | CRUD dependiente  | 1. CRUD Juego (depende de CRUDs Etiqueta, Estudio, Tienda y Plataforma)<br>2. CRUD Franquicias (depende de CRUD Juego)<br>3. CRUD Playlist (depende de CRUD Usuario)|
 | Listado + detalle | 1. Listar juegos por plataformas/etiquetas/desarrollador/publisher/franquicia, muestra nombre y puntuación promedio<br>    <br>2. Listado de juegos filtrado por nombre, muestra nombre y puntuación promedio (búsqueda de juegos)<br>    <br>3. Listado de juegos filtrado por rango de fecha y rango de puntuación promedio, muestra nombre, fecha lanzamiento, puntuación promedio, ordenado por puntaje<br>    <br>4. Listado de reseñas de un juego filtrado por rango de puntajes<br> |
 | CUU/Epic          | 1. Escribir una reseña<br>2. Admin añade un juego|
