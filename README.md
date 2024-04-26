@@ -9,6 +9,7 @@
 ### Repositorios
 - [Frontend app](https://github.com/maig0l/utn-dsw-front)
 - [Backend app](https://github.com/maig0l/utn-dsw-back)
+- [Backend app (Java)](https://github.com/maig0l/utn-java-back)
 
 ## Tema
 ### Descripción
