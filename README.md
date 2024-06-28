@@ -1,4 +1,8 @@
-# Propuesta TP DSW
+# WellPlayed: Especificación
+> Propuesta y especificación del proyecto para Desarrollo de Software
+> 
+> Repositorio web de reseñas e información de videojuegos
+
 ## Grupo
 ### Integrantes
 - 50349 - [Anmuth, Matías](https://github.com/Matiasanin)
